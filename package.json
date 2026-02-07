@@ -3,6 +3,7 @@
   "version": "25.03.15",
   "private": true,
   "license": "CCA-3.0",
+  "packageManager": "pnpm@10.11.0",
   "author": {
     "name": "AREA44",
     "url": "https://github.com/AREA44/astro-multiverse"
